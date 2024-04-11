@@ -1,1 +1,1 @@
-# data_analysis_notes
+# data_science_notes

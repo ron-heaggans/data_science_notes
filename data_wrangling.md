@@ -60,7 +60,7 @@ Things to Remember:
             - do this if there are not a lot of missing values
     - Replace the missing values
         - **use the .replace(A,B, inplace = True) function**
-            - **i.e. df.replace("?",np.nan, inplace = True)**
+            - **i.e. df["column_name"].replace("?",np.nan, inplace = True)**
         - Replace value with an average (of similar datapoints)
             - for numerical data
             - calculating the mean

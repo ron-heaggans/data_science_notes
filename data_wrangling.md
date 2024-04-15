@@ -208,7 +208,7 @@ Name: price,dtype: object
 - Use dataframe.astype() to convert data type
 
 Example: Convert data type to integer in column "price"
-- df["price" = df["price"].astype("int")
+- df["price"] = df["price"].astype("int")
 
 
 
